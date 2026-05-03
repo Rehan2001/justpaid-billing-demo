@@ -28,7 +28,7 @@ It enables users to upload invoice data, automatically process it, detect overdu
 ## 🖼️ Demo Preview (Proof of Work)
 
 👉 **Live UI Screenshot (Invoice Dashboard):**
-[View Screenshot](./screenshot.png)
+[View Screenshot](https://github.com/Rehan2001/justpaid-billing-demo/blob/main/Invoice.png)
 
 ---
 
