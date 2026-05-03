@@ -1,0 +1,6 @@
+customer,amount,due_date,paid
+Acme Corp,$4500,2025-03-15,no
+ByteWave Inc,$12000,2025-04-01,yes
+Stripe Ltd,$8750,2025-05-20,no
+NovaBuild,$3200,2025-02-10,no
+CloudSoft,$6100,2025-06-15,no
